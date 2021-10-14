@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm an MS student in computer science at KAIST researching AI-based robotics.
+### Hi there! 👋 
+I'm an MS student in computer science at KAIST researching AI-based robotics.
 
 
 
