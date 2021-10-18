@@ -2,9 +2,9 @@
 I'm an MS student in Computer Science at KAIST researching AI-based robotics.
 
 ### 🌱 Education
-- M.S. in Computer Science, KAIST, Mar.2020 ~ Present.
+- M.S. in Computer Science, KAIST, Mar.2020 - Present.
   - GPA: 4.0 / 4.3
-- B.S. in Computer Science & Engineering, Soongsil University, Mar.2015 ~ Feb.2020.
+- B.S. in Computer Science & Engineering, Soongsil University, Mar.2015 - Feb.2020.
   - GPA: 4.2 / 4.5 (Summa Cum Laude)
 
 ### 😄 Research interest
