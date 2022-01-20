@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hyeongyeol%20Ryu&fontSize=70)
+
+
 ### Hi there! 👋 
 I'm an MS student in Computer Science at KAIST researching AI-based robotics.
 
@@ -16,7 +19,11 @@ I'm an MS student in Computer Science at KAIST researching AI-based robotics.
 ### 📫 Contact
 - Email: Hyeongyeolryu@gmail.com
 - Github: https://github.com/HyeongYeolRyu
+
+
 <!--
+[![hyeongyeolryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongyeolryu)](https://github.com/hyeongyeolryu/github-readme-stats)
+
 **HyeongYeolRyu/HyeongYeolRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
