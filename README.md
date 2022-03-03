@@ -1,5 +1,7 @@
 ### Hi there! 👋 
+<!--
 I'm an MS student in Computer Science at KAIST researching AI-based robotics.
+-->
 
 ### 🌱 Education
 - M.S. in Computer Science, KAIST, Mar.2020 - Feb.2022.
